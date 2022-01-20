@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(27, 133, 108);
+}
+table, th, td {
+   border: 2px solid black;
+}
+div{
+    background-color: coral;
+}
+h1{
+    color: blue;
+}
+
+button{
+    border-radius: 50%;
+}
+button{
+    background-color: rgb(52, 162, 52);
+}
